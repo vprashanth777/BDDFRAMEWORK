@@ -1,4 +1,4 @@
 
-mvn -DBROWSER="Chrome" test -P smokeTest
+mvn -DBROWSER="Firefox" test -P smokeTest
 
 
